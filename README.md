@@ -12,7 +12,7 @@ These insights will be used to help Loiuse to understand precisely if she will b
 ## Analysis and Challenges: 
 
 #### Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
-A possible chall
+
 
 ####  What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 Pre-summers and summers i.e. May, June and July  are decent time for the theatre due to many reasons 
