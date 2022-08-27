@@ -12,6 +12,8 @@ These insights will be used to help Loiuse to understand precisely if she will b
 ## Analysis and Challenges: 
 
 #### Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
+1. It took sometime to understand the data especially what each head of the column actually meant. This was important as incorrect understanding would affect the analysis
+2. Getting used to pivot table and getting desired results was also not easy at the start as slight misunderstanding in the requirements would affect the final results 
 
 
 ####  What are two conclusions you can draw about the Theater Outcomes by Launch Date?
