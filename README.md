@@ -31,3 +31,6 @@ Any project can be better analyzed if the cost and revenue both numbers are avai
 #### What are some other possible tables and/or graphs that we could create?
 We could have created Average money donation graph and Pledge amount
 
+![](Images/outcomes%20based%20on%20launch%20dates.png)
+
+![](Images/outcomes%20based%20on%20goals.png)
