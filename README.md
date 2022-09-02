@@ -33,6 +33,4 @@ We could have created Average money donation graph and Pledge amount
 
 ![](Images/outcomes%20based%20on%20launch%20dates.png)
 
-Graph below shows linear trends of Total fare by city.
-Graph shows urban has the highest fare and this could be due to highest demand and opposite is true for rural cities
 ![](Images/outcomes%20based%20on%20goals.png)
